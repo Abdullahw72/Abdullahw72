@@ -1,9 +1,26 @@
+## Introduction
+
 - 👋 Hi, I’m @Abdullahw72
 - 👀 I’m interested in Data Science, Machine Learning and Data Analytics.
 - 🌱 I’m currently learning the necessary skills for this purpose, and pursuing a degree of Bachelor's in Computer Science.
 - 💞️ I’m looking to collaborate on projects related to DS, ML and Python.
-- 📫 To reach out,
+- 📫 To reach out:
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abdullahw72/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="abdullahw72@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+## Github Statistics
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdullahw72&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Skills
 <div>
