@@ -2,7 +2,21 @@
 - 👀 I’m interested in Data Science, Machine Learning and Data Analytics.
 - 🌱 I’m currently learning the necessary skills for this purpose, and pursuing a degree of Bachelor's in Computer Science.
 - 💞️ I’m looking to collaborate on projects related to DS, ML and Python.
-- 📫 To reach out, feel free to email me at abdullahw72@gmail.com. Or Reach out on my Linkedin at: https://www.linkedin.com/in/abdullahw72/
+- 📫 To reach out,
+
+
+## Skills
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+
 
 <!---
 Abdullahw72/Abdullahw72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
