@@ -42,12 +42,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 
   ## Recent Blogs
+  - <a href="https://medium.com/@abdullahw72/top-10-python-libraries-used-for-machine-learning-cc0ffd296c93"> Top 10 Python Libraries used for Machine Learning </a>
   - <a href="https://medium.com/@abdullahw72/performing-analysis-of-meteorological-data-a5e993061fc7"> Performing Analysis of Meteorological Data</a>  
   - <a href="https://medium.com/@abdullahw72/recognizing-handwritten-digits-with-scikit-learn-5f698eb26681"> Recognizing Handwritten Digits with scikit-learn</a>
 
-  ## Flagship Project
+  ## Flagship Projects
   
   - <a href="https://github.com/Abdullahw72/Breast-Cancer-Chatbot"> Breast Cancer Chatbot </a>
+  
+  ## Freelance Services
+  - <a href="https://www.fiverr.com/abdullahw72"> Fiverr </a>
+  - <a href="https://www.upwork.com/freelancers/~01a3e38d2c66936937"> Upwork </a>
   
   
 <!---
