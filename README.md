@@ -51,8 +51,7 @@
   - <a href="https://github.com/Abdullahw72/Breast-Cancer-Chatbot"> Breast Cancer Chatbot </a>
   
   ## Freelance Services
-  - <a href="https://www.fiverr.com/abdullahw72"> Fiverr </a>
-  - <a href="https://www.upwork.com/freelancers/~01a3e38d2c66936937"> Upwork </a>
+  - Please Reach out if you would like to see my Fiverr or Upwork Portfolios :) 
   
   
 <!---
