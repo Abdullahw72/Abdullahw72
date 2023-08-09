@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @Abdullahw72
 - 👀 I’m interested in Data Science, Machine Learning and Data Analytics.
-- 🌱 I’m currently learning the necessary skills for this purpose, and pursuing a degree of Bachelor's in Computer Science.
+- 🌱 Graduated with a degree of Bachelor's in Computer Science, and working as a Generative AI Engineer.
 - 💞️ I’m looking to collaborate on projects related to DS, ML and Python.
 - 📫 To reach out:
 
